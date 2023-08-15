@@ -1,0 +1,925 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* header section css code start here */
+.header {
+    width: 100%;
+    padding-top: 13px;
+    background-color: aqua;
+  
+}
+
+/* .header .navbar .navbar-nav{
+
+} */
+.header .navbar .navbar-nav .nav-item {
+    margin-right: 10px;
+
+}
+
+.header .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 19px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #000;
+    text-transform: capitalize;
+    transition: 1s;
+}
+
+.header .navbar .navbar-nav .nav-link:hover {
+    color: #2500f9;
+}
+
+.header .navbar .navbar-nav .nav-link:focus {
+    color: #2500f9;
+}
+
+.header .navbar .navbar-nav .button {
+    margin-top: 7px;
+}
+
+.header .navbar .navbar-nav .button .btn-primary {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    transition: 1s;
+
+}
+
+.header .navbar .navbar-nav .button .btn-primary:hover {
+    color: #2500f9;
+    background: transparent;
+}
+
+.header .navbar .navbar-nav .button .btn-primary:focus {
+    color: #2500f9;
+    background: transparent;
+}
+
+/* banner section css code start here */
+.banner {
+    width: 100%;  
+    padding: 70px 0px;
+}
+
+.banner .title {
+    margin-top: 140px;
+}
+
+.banner .title .editor {
+    background: #e2eaed;
+    margin-right: 320px;
+    border-radius: 18px;
+    font-size: 19px;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.banner .title .editor span {
+    font-size: 25px;
+    font-weight: 700;
+    background: #feaa25;
+    border-radius: 38px;
+    padding-left: 7px;
+    padding-bottom: 3px;
+    margin-left: -8px;
+
+}
+
+.banner .title .tagline {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.2em;
+    color: #08c;
+    text-transform: uppercase
+}
+
+.header .banner .dobble-button {
+    margin-top: 40px;
+
+}
+
+.header .banner .dobble-button .btn-primary {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 10px 20px 10px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    margin-right: 15px;
+    transition: 1s;
+}
+
+.header .banner .dobble-button .btn-primary:hover {
+    color: #2500f9;
+    background: transparent;
+
+}
+
+.header .banner .dobble-button .btn-primary:focus {
+    color: #2500f9;
+    background: transparent;
+
+}
+
+.header .banner .dobble-button .btn-light {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    color: #2500f9;
+    border: 2px solid #2500f9;
+    background: #e2eaed;
+    padding: 10px 20px 10px;
+    transition: 1s;
+
+}
+
+.header .banner .dobble-button .btn-light:hover {
+    color: #2500f9;
+    background: transparent;
+
+
+}
+
+.header .banner .dobble-button .btn-light:focus {
+    color: #2500f9;
+    background: transparent;
+
+
+}
+
+.header .banner img {
+    width: 48%;
+    margin-left: 190px;
+    text-align: center;
+}
+
+/* banner section css code end here */
+
+/* header section css code end here */
+/* sponsored section css code srart here */
+.sponsored{
+    width: 100%;
+    
+    padding: 40px 0px;
+}
+.sponsored .sponsored-title{
+    text-align: center;
+}
+.sponsored .sponsored-title .sponsored-title-text{
+    font-size: 20px;
+    padding: 40px 0px;
+    color: #000;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.sponsored .sponsored-pic{
+    margin-left: 35px;
+}
+
+/* sponsored section css code end here */
+/* feature section css code start here */
+.feature{
+    width: 100%;
+    padding: 80px 0px;
+}
+.feature img{
+    margin-top: 60px;
+    width: 85%;
+}
+
+.feature .title{
+    margin-top: 25px;
+    font-size: 45px;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #242f51;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.feature  .title-des{
+    font-size: 20px;
+    line-height: 1.2em;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: #616368;
+}
+.feature-item{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .feature-item .feature-item1{
+     display: flex;
+     padding: 20px 19px;
+  }
+  .feature-item .feature-item1 .icon{
+    flex-basis: 26%;
+    background: #ffecef;
+    border-radius: 56px;
+    margin-bottom: 20px
+    
+}
+  .feature-item .feature-item1 .icon .fa{
+     font-size: 60px;
+     color: #f55767;
+ 
+  }
+  .feature-item .feature-item1 .icon .fa-clock-o{
+    font-size: 85px;
+    padding: 10px 15px;
+
+ }
+  .feature-item .feature-item1 .content{
+    flex-basis: 125%;
+    margin-left: 15px;
+  }
+  .feature-item .feature-item1 .content .content-title{
+    font-size: 23px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+  }
+  .feature-item .feature-item1 .content .content-des{
+     font-size: 18px;
+     line-height: 1.2em;
+     font-weight: 400;
+     color: #000;
+  }
+/* item2 */
+.feature-item{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .feature-item .feature-item2{
+     display: flex;
+     padding: 20px 19px;
+  }
+  .feature-item .feature-item2 .icon2{
+    flex-basis: 26%;
+    background: #ffecef;
+    border-radius: 56px;
+    margin-bottom: 20px
+    
+}
+  .feature-item .feature-item2 .icon2 .fa{
+     font-size: 60px;
+     color: #f55767;
+ 
+  }
+  .feature-item .feature-item2 .icon2 .fa-pencil-square-o{
+    font-size: 75px;
+    
+    padding-top: 16px;
+    padding-left: 17px;
+    padding-right: 10px;
+
+ }
+  .feature-item .feature-item2 .content2{
+    flex-basis: 125%;
+    margin-left: 15px;
+  }
+  .feature-item .feature-item2 .content2 .content-title2{
+    font-size: 23px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+  }
+  .feature-item .feature-item2 .content2 .content-des2{
+     font-size: 18px;
+     line-height: 1.2em;
+     font-weight: 400;
+     color: #000;
+  }
+  /* item2 end here */
+  /* item3 */
+  .feature-item{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .feature-item .feature-item3{
+     display: flex;
+     padding: 20px 19px;
+  }
+  .feature-item .feature-item3 .icon3{
+    flex-basis: 27%;
+    background: #ffecef;
+    border-radius: 56px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+
+    
+}
+  .feature-item .feature-item3 .icon3 .fa{
+     font-size: 60px;
+     color: #f55767;
+ 
+  }
+  .feature-item .feature-item3 .icon3 .fa-pencil{
+    font-size: 68px;
+    padding-top: 16px;
+    padding-left: 22px;
+    padding-right: 10px;
+
+ }
+  .feature-item .feature-item3 .content3{
+    flex-basis: 125%;
+    margin-left: 15px;
+  }
+  .feature-item .feature-item3 .content3 .content-title3{
+    font-size: 23px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+  }
+  .feature-item .feature-item3 .content3 .content-des3{
+     font-size: 18px;
+     line-height: 1.2em;
+     font-weight: 400;
+     color: #000;
+  }
+/* item3 end here */
+/* feature section css code end here */
+/* smart-jackpot section css code start here */
+.smart-jackpot{
+    width: 100%;
+    padding: 80px 0px;
+}
+.smart-jackpot .smart-jackpot-title{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-right: 3px solid #000;   
+    margin-left: 50px;
+}
+.smart-jackpot .smart-jackpot-title-des{
+   
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.smart-jackpot .automatic-payout{
+    width: 100%;
+    padding: 40px 0px;
+    margin-left: 30px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2{
+     padding: 20px 19px;
+     text-align: left;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-icon{
+    margin-left: 10px;
+   
+}
+/* .smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content{
+
+} */
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title{
+    font-size: 30px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #2563ff;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des{
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+/* smart-jackpot section css code start here */
+/* design section start here */
+.design{
+    width: 100%;
+    padding: 40px 0px;
+    border-bottom: 2px solid #f4f4f4;
+}
+.design .design-title{
+    margin-top: 110px;
+}
+.design .design-title-p{
+    font-size: 35px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+
+}
+.design .design-title-des{
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #000;
+    margin-left: 50px;
+
+}
+.design .button{
+    margin-left: 50px;
+}
+.design .button .btn-primary {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+
+}
+.design .button .btn-primary:hover{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+}
+.design .button .btn-primary:focus{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+}
+/* design section start here */
+/* why we section css code start */
+.why-we{
+    width: 100%;
+    padding: 80px 0px;
+}
+.why-we .why-we-title{
+    text-align: center;
+}
+.why-we .why-we-title .why-we-title-text{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #242f51;
+}
+.why-we .why-we-title .why-we-title-des{
+    font-size: 20;
+    font-weight: 500;
+    line-height: 1.2em;
+   color: #7e8084;
+}
+.why-we .item1{
+    padding: 80px 0px 0px;
+    margin-left: 20px;
+    text-align: center;
+}
+/* .why-we .des{
+    margin-left: 20px;
+} */
+.why-we .des .des-title{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #000;
+    text-align: center;
+
+}
+.why-we .des .des-p{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+    text-align: center;
+
+}
+/* why we section css code end */
+
+/* ultimate-feature section start here */
+.ultimate-feature{
+    width: 100%;
+    padding: 80px 0px;
+    background: #d7d6e1;
+}
+.ultimate-feature .title{
+        float: left;
+}
+.ultimate-feature .title .ultimate-feature-title{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .title .ultimate-feature-des{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+.ultimate-feature .ultimate-feature-s{
+    padding: 40px 0px;
+}
+.ultimate-feature .des .ultimate-feature-des-title{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .des .ultimate-feature-des-p{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.2em;
+    
+    
+}
+.ultimate-feature .button{
+        
+}
+.ultimate-feature .button .btn-primary{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.ultimate-feature .button .btn-primary:hover{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+.ultimate-feature .button .btn-primary:focus{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+.ultimate-feature .p{
+    margin-top: -90px;
+    margin-left: 90px;
+}
+/* ultimate-feature section end here */
+/* get-feature section end here */
+
+.get-feature{
+    width: 100%;
+    padding: 20px 0px;
+    background-color: #fff;
+}
+.get-feature .get-feature-title .get-feature-title-t{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .get-feature-title .get-feature-title--des{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .double-button{
+    padding: 40px 0px;
+    text-align: center;
+    margin-right: 20px;
+
+}
+.get-feature .double-button .btn-primary{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+   
+
+}
+.get-feature .double-button .btn-primary:hover{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+.get-feature .double-button .btn-primary:focus{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+.get-feature .card {
+    text-align: center;
+    border: 2px solid #2500f9;
+}
+.get-feature .card .card-header{
+
+}
+
+.get-feature .card .card-header p span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+.get-feature .card-body{
+
+}
+.get-feature .card-body .card-text{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.9em;
+}
+.get-feature .card-body .button{
+    /* margin-bottom: 40px; */
+}
+.get-feature .card-body .button .btn-primary{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.get-feature .card-body .button .btn-primary:hover{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+.get-feature .card-body .button .btn-primary:focus{
+    color: #2500f9;
+    background-color: transparent;
+    border: 2px solid #2500f9;
+    
+}
+/* get-feature section end here */
+/* client section start here */
+
+.client {
+    width: 100%;
+    padding: 80px 0px;
+    background: rgb(166, 181, 189);
+}
+.client .client{
+    width: 70%;
+    background: url(../images/w\ m.jpg) center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 120px;
+   
+}
+.client .client-title{
+
+}
+.client .client-title-t{
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: left;
+}
+.client .client-title-des{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .star{
+
+}
+.client .star img{
+    width: 22%;
+    padding-bottom: 20px;
+}
+.client .client-title-star{
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star-des{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.2em;
+    margin-top: 20px;
+    text-align: left;
+
+}
+/* client section end here*/
+/* asked qusetion xection css code start here */
+.asked-question{
+    width: 100%;
+    padding: 80px 0px;
+    background-color: #d7d6e1;
+}
+.asked-question .asked-question-title{
+    font-size: 45px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: center;
+}
+.asked-question .asked-question-des{
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.0em;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.asked-question .asked-question-text-title{
+    margin-left: 256px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0px 10px 0px;
+
+}
+.asked-question .asked-question-text-des{
+    margin-left: 320px;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.4em;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+.asked-question .asked-question-text .asked-question-text-title .fa{
+    color: #5f16b9;
+    font-size: 30px;
+    margin-right: 20px;
+}
+   
+/* asked qusetion xection css code end here */
+/* download section css code strt here */
+.download{
+    width: 100%;
+    padding: 80px 0px;
+}
+.download .download-t .download-t-title{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.2em;
+    padding: 80px 0px 0px;
+}
+.download .download-t .download-t-title-des{
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.4em;
+    text-align: left;
+    padding-bottom: 30px;
+}
+/* .download .download-t img{
+
+} */
+
+
+/* download section css code end here */
+/* footer section css code start here */
+.footer{
+    width: 1005;
+    padding: 80px 0px;
+    background: url("../images/footer.png") center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer .logo{
+    text-align: center;
+}
+.footer .menu{
+    text-align: center;
+    color: #fff;
+}
+.footer .menu ul li{
+    display: inline-block;
+    list-style: none;
+}
+.footer .menu ul li .nav-link{
+    font-size: 19px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 20px;
+    padding: 30px 0px; 
+}
+.footer .social{
+    text-align: center;
+    color: #fff;
+}
+.footer .social ul li{
+    display: inline-block;
+    list-style: none;
+}
+.footer .social ul li .nav-link{
+    font-size: 45px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 20px;   
+}
+.footer .social ul li .nav-link:hover{
+    color: #9778cc;
+    transition: 1s;
+}
+.footer .social ul li .nav-link:focus{
+    color: #9778cc;
+    
+}
+.footer .copyright{
+    width: 100%;
+    text-align: center;
+}
+.footer .copyright .inner-copyright .inner-copyright-des{
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 80px;
+  
+}
+/* footer section css code end here */
+
+
+

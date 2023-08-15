@@ -1,0 +1,1382 @@
+@media (min-width: 320px) and (max-width: 480px) {
+.header .navbar .navbar-nav .nav-item {
+        margin-right: 0px;
+ }
+.navbar-toggler{
+    background: #000;
+}
+.fa-bars{
+    color: #fff;
+}
+.header .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 15px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #000;
+    text-transform: capitalize;
+    transition: 1s;
+}
+.header .navbar .navbar-nav .button .btn-primary {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.banner .title .editor {
+    background: #e2eaed;
+    margin-right: 0px;
+    border-radius: 27px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.banner .title .tagline {
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 1.2em;
+    color: #08c;
+    text-transform: uppercase;
+}
+.header .banner .dobble-button .btn-primary {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 10px 20px 10px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    margin-right: 15px;
+    transition: 1s;
+    margin-bottom: 10px;
+}
+.header .banner .dobble-button .btn-light {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    color: #2500f9;
+    border: 2px solid #2500f9;
+    background: #e2eaed;
+    padding: 10px 20px 10px;
+    transition: 1s;
+}
+.header .banner img {
+    width: 48%;
+    margin-left: 71px;
+    text-align: center;
+}
+.sponsored .sponsored-title .sponsored-title-text {
+    font-size: 20px;
+    padding: 40px 0px;
+    color: #000;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.sponsored .sponsored-pic {
+    margin-left: 59px;
+    margin-bottom: 20px;
+}
+.feature img {
+    margin-top: 0px;
+    width: 85%;
+}
+.feature .title {
+    margin-top: 21px;
+    font-size: 27px;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #242f51;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.feature-item .feature-item1 .icon {
+    flex-basis: 28%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item1 .content .content-title {
+    font-size: 17px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item1 .content .content-des {
+    font-size: 9px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item2 .icon2 {
+    flex-basis: 26%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item2 .content2 .content-title2 {
+    font-size: 16px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item2 .content2 .content-des2 {
+    font-size: 9px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item3 .icon3 {
+    flex-basis: 27%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.feature-item .feature-item3 .content3 .content-title3 {
+    font-size: 16px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item3 .content3 .content-des3 {
+    font-size: 9px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.smart-jackpot .smart-jackpot-title {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-right: 3px solid #000;
+    margin-left: 50px;
+}
+.smart-jackpot .smart-jackpot-title-des {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-icon {
+    margin-left: 35px;
+
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #2563ff;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.design img{
+    width: 99%;
+}
+.design .design-title-p {
+    font-size: 24px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+}
+.design .design-title-des {
+    font-size: 9px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #000;
+    margin-left: 50px;
+}
+.design .button .btn-primary {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.why-we .why-we-title .why-we-title-text {
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #242f51;
+}
+.why-we .why-we-title .why-we-title-des {
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+}
+.why-we .des .des-title {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #000;
+    text-align: center;
+}
+.why-we .des .des-p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+    text-align: center;
+}
+.ultimate-feature .title .ultimate-feature-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .title .ultimate-feature-des {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+.ultimate-feature .des .ultimate-feature-des-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .des .ultimate-feature-des-p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.2em;
+}
+.ultimate-feature .button .btn-primary {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.ultimate-feature .p {
+    margin-top: -94px;
+    margin-left: 0px;
+}
+.ultimate-feature .p img {
+    width: 70%;
+    margin-top: 50px;
+}
+.get-feature .get-feature-title .get-feature-title-t {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .get-feature-title .get-feature-title--des {
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .double-button .btn-primary {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.client .client {
+    width: 70%;
+    background: url(../images/w\ m.jpg) center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 38px;
+}
+.client .client-title-t {
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: left;
+}
+.client .client-title-des {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star {
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star-des {
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.2em;
+    margin-top: 20px;
+    text-align: left;
+}
+.asked-question .asked-question-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: center;
+}
+.asked-question .asked-question-des {
+    font-size: 9px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.0em;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.asked-question .asked-question-text-title {
+    margin-left: 0px;
+    font-size: 9px;
+    font-weight: 600;
+    padding: 0px 10px 0px;
+}
+.asked-question .asked-question-text .asked-question-text-title .fa {
+    color: #5f16b9;
+    font-size: 10px;
+    margin-right: 8px;
+}
+.asked-question .asked-question-text-des {
+    margin-left: 30px;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.4em;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.download .download-t .download-t-title {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 1.2em;
+    padding: 80px 0px 0px;
+}
+.download img{
+    width: 100%;
+}
+.footer .menu ul li .nav-link {
+    font-size: 10px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 5px;
+    padding: 12px 0px;
+}
+.footer .social ul li .nav-link {
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 15px;
+}
+.footer .copyright .inner-copyright .inner-copyright-des {
+    font-size: 10px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 80px;
+}
+}
+@media (min-width: 481px) and (max-width: 767px) {
+.header .navbar .navbar-nav .nav-item {
+        margin-right: 0px;
+ }
+.navbar-toggler{
+    background: #000;
+}
+.fa-bars{
+    color: #fff;
+}
+.header .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 15px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #000;
+    text-transform: capitalize;
+    transition: 1s;
+}
+.header .navbar .navbar-nav .button .btn-primary {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.banner .title .editor {
+    background: #e2eaed;
+    margin-right: 0px;
+    border-radius: 27px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 170px;
+}
+.banner .title .tagline {
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 1.2em;
+    color: #08c;
+    text-transform: uppercase;
+}
+.header .banner .dobble-button .btn-primary {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 10px 20px 10px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    margin-right: 15px;
+    transition: 1s;
+    margin-bottom: 0px;
+}
+.header .banner .dobble-button .btn-light {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    color: #2500f9;
+    border: 2px solid #2500f9;
+    background: #e2eaed;
+    padding: 10px 20px 10px;
+    transition: 1s;
+}
+.header .banner img {
+    width: 48%;
+    margin-left: 71px;
+    text-align: center;
+}
+.sponsored .sponsored-title .sponsored-title-text {
+    font-size: 20px;
+    padding: 40px 0px;
+    color: #000;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.sponsored .sponsored-pic {
+    margin-left: 165px;
+    margin-bottom: 20px;
+}
+.feature img {
+    margin-top: 0px;
+    width: 85%;
+}
+.feature .title {
+    margin-top: 21px;
+    font-size: 27px;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #242f51;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.feature-item .feature-item1 .icon {
+    flex-basis: 28%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item1 .content .content-title {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item1 .content .content-des {
+    font-size: 13px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item2 .icon2 {
+    flex-basis: 26%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item2 .content2 .content-title2 {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item2 .content2 .content-des2 {
+    font-size: 12px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item3 .icon3 {
+    flex-basis: 27%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.feature-item .feature-item3 .content3 .content-title3 {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item3 .content3 .content-des3 {
+    font-size: 12px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.smart-jackpot .smart-jackpot-title {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-right: 3px solid #000;
+    margin-left: 50px;
+}
+.smart-jackpot .smart-jackpot-title-des {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-icon {
+    margin-left: 35px;
+
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #2563ff;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.design img{
+    width: 99%;
+}
+.design .design-title-p {
+    font-size: 24px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+}
+.design .design-title-des {
+    font-size: 9px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #000;
+    margin-left: 50px;
+}
+.design .button .btn-primary {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.why-we .why-we-title .why-we-title-text {
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #242f51;
+}
+.why-we .why-we-title .why-we-title-des {
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+}
+.why-we .des .des-title {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #000;
+    text-align: center;
+}
+.why-we .des .des-p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+    text-align: center;
+}
+.ultimate-feature .title .ultimate-feature-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .title .ultimate-feature-des {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+.ultimate-feature .des .ultimate-feature-des-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .des .ultimate-feature-des-p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.2em;
+}
+.ultimate-feature .button .btn-primary {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.ultimate-feature .p {
+    margin-top: -94px;
+    margin-left: 0px;
+}
+.ultimate-feature .p img {
+    width: 70%;
+    margin-top: 50px;
+}
+.get-feature .get-feature-title .get-feature-title-t {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .get-feature-title .get-feature-title--des {
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .double-button .btn-primary {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.get-feature .card {
+    text-align: center;
+    border: 2px solid #2500f9;
+    margin-left: 40px;
+}
+.client .client {
+    width: 70%;
+    background: url(../images/w\ m.jpg) center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+}
+.client .client-title-t {
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: left;
+}
+.client .client-title-des {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star {
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star-des {
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.2em;
+    margin-top: 20px;
+    text-align: left;
+}
+.asked-question .asked-question-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: center;
+}
+.asked-question .asked-question-des {
+    font-size: 9px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.0em;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.asked-question .asked-question-text-title {
+    margin-left: 0px;
+    font-size: 9px;
+    font-weight: 600;
+    padding: 0px 10px 0px;
+}
+.asked-question .asked-question-text .asked-question-text-title .fa {
+    color: #5f16b9;
+    font-size: 10px;
+    margin-right: 8px;
+}
+.asked-question .asked-question-text-des {
+    margin-left: 30px;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.4em;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.download .download-t .download-t-title {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 1.2em;
+    padding: 80px 0px 0px;
+}
+.download img{
+    width: 100%;
+}
+.footer .menu ul li .nav-link {
+    font-size: 10px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 5px;
+    padding: 12px 0px;
+}
+.footer .social ul li .nav-link {
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 15px;
+}
+.footer .copyright .inner-copyright .inner-copyright-des {
+    font-size: 10px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 80px;
+}
+    
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+.header .navbar .navbar-nav .nav-item {
+        margin-right: 0px;
+ }
+.navbar-toggler{
+    background: #000;
+}
+.fa-bars{
+    color: #fff;
+}
+.header .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #000;
+    text-transform: capitalize;
+    transition: 1s;
+}
+.header .navbar .navbar-nav .button .btn-primary {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.banner .title .editor {
+    background: #e2eaed;
+    margin-right: 0px;
+    border-radius: 27px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 393px;
+}
+.banner .title .tagline {
+    font-size: 51px;
+    font-weight: 600;
+    line-height: 1.2em;
+    color: #08c;
+    text-transform: uppercase;
+}
+.header .banner .dobble-button .btn-primary {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 10px 20px 10px;
+    background-color: #2500f9;
+    text-transform: lowercase;
+    border: 2px solid #2500f9;
+    margin-right: 15px;
+    transition: 1s;
+    margin-bottom: 0px;
+}
+.header .banner .dobble-button .btn-light {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    color: #2500f9;
+    border: 2px solid #2500f9;
+    background: #e2eaed;
+    padding: 10px 20px 10px;
+    transition: 1s;
+}
+.header .banner img {
+    width: 48%;
+    margin-left: 155px;
+    text-align: center;
+}
+.sponsored .sponsored-title .sponsored-title-text {
+    font-size: 35px;
+    padding: 40px 0px;
+    color: #000;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.sponsored .sponsored-pic {
+    margin-left: 266px;
+    margin-bottom: 50px;
+}
+.feature img {
+    margin-top: 0px;
+    width: 85%;
+}
+.feature .title {
+    margin-top: 21px;
+    font-size: 50px;
+    line-height: 1.2em;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #242f51;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.feature-item .feature-item1 .icon {
+    flex-basis: 28%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item1 .content .content-title {
+    font-size: 30px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item1 .content .content-des {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item2 .icon2 {
+    flex-basis: 26%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+}
+.feature-item .feature-item2 .content2 .content-title2 {
+    font-size: 30px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item2 .content2 .content-des2 {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.feature-item .feature-item3 .icon3 {
+    flex-basis: 27%;
+    background: #fff;
+    border-radius: 56px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.feature-item .feature-item3 .content3 .content-title3 {
+    font-size: 30px;
+    line-height: 1.2em;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #f55767;
+}
+.feature-item .feature-item3 .content3 .content-des3 {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    color: #000;
+}
+.smart-jackpot .smart-jackpot-title {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.7em;
+    border-right: 3px solid #000;
+    margin-left: 50px;
+}
+.smart-jackpot .smart-jackpot-title-des {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-icon {
+    margin-left: 35px;
+
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title {
+    font-size: 30px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 24px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #2563ff;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 24px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-title3 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #9ed3b1;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.smart-jackpot .automatic-payout .automatic-payout2 .automatic-payout-content .automatic-payout-content-des {
+    font-size: 24px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2em;
+}
+.design img{
+    width: 99%;
+}
+.design .design-title-p {
+    font-size: 30px;
+    line-height: 1.4em;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+}
+.design .design-title-des {
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #000;
+    margin-left: 50px;
+}
+.design .button .btn-primary {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.why-we .why-we-title .why-we-title-text {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #242f51;
+}
+.why-we .why-we-title .why-we-title-des {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+}
+.why-we .des .des-title {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #000;
+    text-align: center;
+}
+.why-we .des .des-p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #7e8084;
+    text-align: center;
+}
+.ultimate-feature .title .ultimate-feature-title {
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .title .ultimate-feature-des {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+.ultimate-feature .des .ultimate-feature-des-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+}
+.ultimate-feature .des .ultimate-feature-des-p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.2em;
+}
+.ultimate-feature .button .btn-primary {
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.ultimate-feature .p {
+    margin-top: -94px;
+    margin-left: 30px;
+}
+.ultimate-feature .p img {
+    width: 70%;
+    margin-top: 50px;
+}
+.get-feature .get-feature-title .get-feature-title-t {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .get-feature-title .get-feature-title--des {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: center;
+}
+.get-feature .double-button .btn-primary {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.7em;
+    border-radius: 58px;
+    text-align: center;
+    padding: 5px 15px 5px;
+    background-color: #2500f9;
+    text-transform: capitalize;
+    border: 2px solid #2500f9;
+    transition: 1s;
+}
+.get-feature .card {
+    text-align: center;
+    border: 2px solid #2500f9;
+    margin-left: 150px;
+}
+.client .client {
+    width: 70%;
+    background: url(../images/w\ m.jpg) center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 101px;
+}
+.client .client-title-t {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.2em;
+    margin-top: 30px;
+    text-align: left;
+}
+.client .client-title-des {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star {
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: left;
+}
+.client .client-title-star-des {
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.2em;
+    margin-top: 20px;
+    text-align: left;
+}
+.asked-question .asked-question-title {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.7em;
+    margin-top: 20px;
+    text-align: center;
+}
+.asked-question .asked-question-des {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.0em;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.asked-question .asked-question-text-title {
+    margin-left: 0px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 0px 10px 0px;
+}
+.asked-question .asked-question-text .asked-question-text-title .fa {
+    color: #5f16b9;
+    font-size: 25px;
+    margin-right: 8px;
+}
+.asked-question .asked-question-text-des {
+    margin-left: 30px;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: 1.4em;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.download .download-t .download-t-title {
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2em;
+    padding: 80px 0px 0px;
+}
+.download img{
+    width: 100%;
+}
+.footer .menu ul li .nav-link {
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 5px;
+    padding: 12px 0px;
+}
+.footer .social ul li .nav-link {
+    font-size: 20px;
+    line-height: 1.7em;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 15px;
+}
+.footer .copyright .inner-copyright .inner-copyright-des {
+    font-size: 15px;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 80px;
+}
+    
+}
